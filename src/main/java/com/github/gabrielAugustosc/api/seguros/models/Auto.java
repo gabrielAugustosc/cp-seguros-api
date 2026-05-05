@@ -25,3 +25,4 @@ public class Auto {
     @Column(name="chassi_auto", nullable=false)
     private String chassi;
 }
+//
