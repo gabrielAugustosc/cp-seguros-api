@@ -1,4 +1,4 @@
-package com.github.fabiohnardella.api.seguros;
+package com.github.gabrielAugustosc.api.seguros;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
